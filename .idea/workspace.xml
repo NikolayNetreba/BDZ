@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40726fe5-00f0-4dc4-982b-a40ec42451f6" name="Changes" comment="add gitignore">
-      <change afterPath="$PROJECT_DIR$/src/Task2.java" afterDir="false" />
+    <list default="true" id="40726fe5-00f0-4dc4-982b-a40ec42451f6" name="Changes" comment="solve 2">
+      <change afterPath="$PROJECT_DIR$/src/Task3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +48,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Task1.executor": "Run",
+    "Application.Task2.executor": "Run",
+    "Application.Task3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
@@ -82,7 +84,7 @@
       <updated>1729546428644</updated>
       <workItem from="1729546429727" duration="1376000" />
       <workItem from="1729547842992" duration="411000" />
-      <workItem from="1729548270348" duration="2133000" />
+      <workItem from="1729548270348" duration="2432000" />
     </task>
     <task id="LOCAL-00001" summary="solve 1">
       <option name="closed" value="true" />
@@ -100,7 +102,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729549998572</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="solve 2">
+      <option name="closed" value="true" />
+      <created>1729550506124</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1729550506124</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,6 +130,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="solve 1" />
     <MESSAGE value="add gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="add gitignore" />
+    <MESSAGE value="solve 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="solve 2" />
   </component>
 </project>
