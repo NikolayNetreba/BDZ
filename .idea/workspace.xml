@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40726fe5-00f0-4dc4-982b-a40ec42451f6" name="Changes" comment="solve 2">
-      <change afterPath="$PROJECT_DIR$/src/Task3.java" afterDir="false" />
+    <list default="true" id="40726fe5-00f0-4dc4-982b-a40ec42451f6" name="Changes" comment="solve 3">
+      <change afterPath="$PROJECT_DIR$/src/Task4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +51,7 @@
     "Application.Task1.executor": "Run",
     "Application.Task2.executor": "Run",
     "Application.Task3.executor": "Run",
+    "Application.Task4.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
@@ -84,7 +86,8 @@
       <updated>1729546428644</updated>
       <workItem from="1729546429727" duration="1376000" />
       <workItem from="1729547842992" duration="411000" />
-      <workItem from="1729548270348" duration="2432000" />
+      <workItem from="1729548270348" duration="2502000" />
+      <workItem from="1729610932404" duration="1347000" />
     </task>
     <task id="LOCAL-00001" summary="solve 1">
       <option name="closed" value="true" />
@@ -110,7 +113,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729550506124</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="solve 3">
+      <option name="closed" value="true" />
+      <created>1729550766001</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729550766001</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,6 +142,18 @@
     <MESSAGE value="solve 1" />
     <MESSAGE value="add gitignore" />
     <MESSAGE value="solve 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="solve 2" />
+    <MESSAGE value="solve 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="solve 3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Task4.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
