@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40726fe5-00f0-4dc4-982b-a40ec42451f6" name="Changes" comment="solve 3">
-      <change afterPath="$PROJECT_DIR$/src/Task4.java" afterDir="false" />
+    <list default="true" id="40726fe5-00f0-4dc4-982b-a40ec42451f6" name="Changes" comment="solve 4">
+      <change afterPath="$PROJECT_DIR$/src/Task5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +87,7 @@
       <workItem from="1729546429727" duration="1376000" />
       <workItem from="1729547842992" duration="411000" />
       <workItem from="1729548270348" duration="2502000" />
-      <workItem from="1729610932404" duration="1347000" />
+      <workItem from="1729610932404" duration="2262000" />
     </task>
     <task id="LOCAL-00001" summary="solve 1">
       <option name="closed" value="true" />
@@ -121,7 +121,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729550766001</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="solve 4">
+      <option name="closed" value="true" />
+      <created>1729612341400</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1729612341400</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,7 +151,8 @@
     <MESSAGE value="add gitignore" />
     <MESSAGE value="solve 2" />
     <MESSAGE value="solve 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="solve 3" />
+    <MESSAGE value="solve 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="solve 4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
