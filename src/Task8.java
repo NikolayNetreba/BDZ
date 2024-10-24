@@ -20,4 +20,5 @@ public class Task8 {
         int n = in.nextInt();
         hanoi(n, 0, 2);
     }
+
 }
