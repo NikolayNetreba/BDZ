@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40726fe5-00f0-4dc4-982b-a40ec42451f6" name="Changes" comment="solve 5">
-      <change afterPath="$PROJECT_DIR$/src/Task7.java" afterDir="false" />
+    <list default="true" id="40726fe5-00f0-4dc4-982b-a40ec42451f6" name="Changes" comment="solve 8">
+      <change afterPath="$PROJECT_DIR$/src/Task9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BDZ/Task8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BDZ/Task8.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +55,7 @@
     "Application.Task4.executor": "Run",
     "Application.Task5.executor": "Run",
     "Application.Task6.executor": "Run",
+    "Application.Task9.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
@@ -147,7 +149,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729614132196</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="solve 8">
+      <option name="closed" value="true" />
+      <created>1729812570301</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1729812570301</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,7 +181,8 @@
     <MESSAGE value="solve 3" />
     <MESSAGE value="solve 4" />
     <MESSAGE value="solve 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="solve 5" />
+    <MESSAGE value="solve 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="solve 8" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
